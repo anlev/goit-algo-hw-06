@@ -2,9 +2,9 @@ This homework demonstrates working with graphs using the `networkx` library in P
 A realistic model of a part of the Kyiv underground system was chosen as the graph domain.
 
 The work consists of three dependent tasks:
-- graph construction and analysis
-- graph traversal using DFS and BFS
-- shortest path search using Dijkstra's algorithm
+- task01.py - graph construction and analysis
+- task02.py - graph traversal using DFS and BFS
+- task03.py - shortest path search using Dijkstra's algorithm
 
 ---
 
